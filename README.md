@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Seido
 - 👀 I’m interested in gaming and developing my knowledge on Discord Bots.
 - 🌱 I’m currently learning Bash Scripting and Networking
+- Love working on Homelab projects using Unraid
